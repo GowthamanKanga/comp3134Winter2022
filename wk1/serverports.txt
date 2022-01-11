@@ -1,0 +1,14 @@
+1)What is the definition of server port?
+A1:A port is a number used to uniquely identify a network transaction 
+by specifying both the host and the service.
+
+2)What is server port range?
+A2:Port numbers range from 0 to 65535, butport numbers 0 to 1023 are 
+designated as well-known ports and are reserved for privileged services.
+
+3)How many bits does number above represent?
+A3:16th bit
+
+4)State 10 common server ports
+A4:HTTP – Port 80,HTTPS – 443,FTP – 21,FTPS / SSH – 22,POP3 – 110
+,POP3 SSL – 995,IMAP – 143,IMAP SSL – 993,SMTP – 25,SMTP SSL – 587
