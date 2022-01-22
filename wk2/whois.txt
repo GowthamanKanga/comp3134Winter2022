@@ -1,0 +1,146 @@
+Bell.ca
+Registrar Info:
+Name - MarkMonitor International Canada Ltd.
+
+Whois Server - whois.ca.fury.ca
+
+Referral URL - Markmonitor.com
+
+Status - clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+         clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+         clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+
+Important Dates:
+Expires On -2023-12-15
+Registered On - 2000-10-11
+Updated On -2020-11-23
+
+Name Servers:
+mtl02vnszs07.srvr.bell.ca - 207.236.176.16
+mtl02vnszs08.srvr.bell.ca - 207.236.176.10
+tor63vnszp07.srvr.bell.ca - 207.164.234.44
+tor63vnszp08.srvr.bell.ca -207.164.234.46
+toroon63nszp01.srvr.bell.ca - 207.164.234.42
+toroondcnszs01.srvr.bell.ca - 207.236.176.30
+
+
+
+
+Youtube.com
+Registrar Info:
+Name - MarkMonitor, Inc.
+
+Whois Server - whois.markmonitor.com
+
+Referral URL - http://www.markmonitor.com
+
+Status - clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+         clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+         clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+         serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+         serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+         serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+
+Important Dates:
+Expires On - 2023-02-15
+Registered On - 2005-02-15
+Updated On - 2022-01-14
+
+Name Servers:
+ns1.google.com - 216.239.32.10
+ns2.google.com - 216.239.34.10
+ns3.google.com - 216.239.36.10
+ns4.google.com - 216.239.38.10
+
+
+
+
+facebook.com
+Registrar Info:
+Name - RegistrarSafe, LLC
+
+Whois Server - whois.registrarsafe.com
+
+Referral URL - https://www.registrarsafe.com
+
+Status - clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+         clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+         clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited
+         serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited
+         serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited
+         serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited
+
+
+Important Dates:
+Expires On - 2031-03-30
+Registered On - 1997-03-29
+Updated On - 2021-10-18
+
+Name Servers:
+A.NS.FACEBOOK.COM - 129.134.30.12
+B.NS.FACEBOOK.COM - 129.134.31.12
+C.NS.FACEBOOK.COM - 185.89.218.12
+D.NS.FACEBOOK.COM - 185.89.219.12
+
+
+
+linkedin.com
+Registrar Info:
+Name - MarkMonitor, Inc.
+Whois Server - whois.markmonitor.com
+Referral URL - http://www.markmonitor.com
+Status - clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+         clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+         clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+         serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+         serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+         serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+
+
+Important Dates:
+Expires On - 2022-11-02
+Registered On - 2002-11-02
+Updated On - 2020-09-01
+
+Name Servers:
+dns1.p09.nsone.net - 198.51.44.9
+dns2.p09.nsone.net - 198.51.45.9
+dns3.p09.nsone.net - 198.51.44.73
+dns4.p09.nsone.net - 198.51.45.73
+ns1.p43.dynect.net - 208.78.70.43
+ns2.p43.dynect.net - 204.13.250.43
+ns3.p43.dynect.net - 208.78.71.43
+ns4.p43.dynect.net - 204.13.251.43
+
+
+
+
+twitch.tv
+Registrar Info:
+Name - MarkMonitor, Inc.
+
+Whois Server - whois.markmonitor.com
+
+Referral URL - http://www.markmonitor.com
+
+Status - clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+         clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+         clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+         serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+         serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+         serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+
+
+Important Dates:
+Expires On - 2024-06-08
+Registered On - 2009-06-08
+Updated On - 2020-05-12
+
+Name Servers:
+ns-1450.awsdns-53.org - 205.251.197.170
+ns-1778.awsdns-30.co.uk - 205.251.198.242
+ns-219.awsdns-27.com - 205.251.192.219
+ns-664.awsdns-19.net - 205.251.194.152
+
+
+

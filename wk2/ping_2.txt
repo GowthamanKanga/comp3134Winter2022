@@ -1,0 +1,3 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping 138.197.140.141
+PING 138.197.140.141 (138.197.140.141) 56(84) bytes of data.
+64 bytes from 138.197.140.141: icmp_seq=1 ttl=64 time=0.045 ms

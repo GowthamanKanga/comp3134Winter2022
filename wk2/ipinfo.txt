@@ -1,0 +1,45 @@
+TD Bank
+IP Address - 192.229.162.193
+Geo - City: New York City
+      State: New York
+      Country: United States of America
+      Postal Code: 10116
+      Time Zone: -05:00
+-------------------------------------------
+RBC Bank
+IP Address - 23.73.250.134
+Geo - City: Edison
+      State: New Jersey
+      Country: United States of America
+      Postal Code: 08817
+      Time Zone: -05:00
+
+-------------------------------------------
+CIBC Bank
+IP Address - 23.199.29.61
+Geo - City: Atlanta
+      State: Georgia
+      Country: United States of America
+      Postal Code: 30301
+      Time Zone: -05:00
+
+-------------------------------------------
+BMO Bank
+IP Address - 104.69.57.109
+Geo - City: New York City
+      State: New York
+      Country: United States of America
+      Postal Code: 10116
+      Time Zone: -05:00
+
+-------------------------------------------
+OSAP
+IP Address - 204.41.8.65
+Geo - City: Toronto
+      State: Ontario
+      Country: Canada
+      Postal Code: M3B 0A3
+      Time Zone: -05:00
+
+
+

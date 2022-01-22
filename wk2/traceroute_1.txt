@@ -1,0 +1,4 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# traceroute 138.197.140.141
+
+traceroute to 138.197.140.141 (138.197.140.141), 30 hops max, 60 byte packets
+ 1  lamp-ubuntu-s-1vcpu-1gb-tor1-01 (138.197.140.141)  0.042 ms  0.012 ms  0.007 ms
