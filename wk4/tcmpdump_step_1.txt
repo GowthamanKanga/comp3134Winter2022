@@ -1,0 +1,27 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0
+
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+01:28:17.509442 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 1325918652:1325918688, ack 3603209545, win 63852, length 36
+01:28:17.510564 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 36:144, ack 1, win 63852, length 108
+01:28:17.510620 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 144:180, ack 1, win 63852, length 36
+01:28:17.510670 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 180:288, ack 1, win 63852, length 108
+01:28:17.510710 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 288:324, ack 1, win 63852, length 36
+01:28:17.511308 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.51079 > 67.207.67.3.domain: 20612+ [1au] PTR? 247.106.244.99.in-addr.arpa. (56)
+01:28:17.511386 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.57904 > 67.207.67.3.domain: 23495+ [1au] PTR? 247.106.244.99.in-addr.arpa. (56)
+01:28:17.511535 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.51079: 20612 1/0/1 PTR cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com. (125)
+01:28:17.511556 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01 > 67.207.67.3: ICMP lamp-ubuntu-s-1vcpu-1gb-tor1-01 udp port 51079 unreachable, length 161
+01:28:17.511683 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.57904: 23495 1/0/1 PTR cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com. (125)
+01:28:17.511697 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01 > 67.207.67.3: ICMP lamp-ubuntu-s-1vcpu-1gb-tor1-01 udp port 57904 unreachable, length 161
+01:28:17.511871 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.60343 > 67.207.67.3.domain: 42394+ [1au] PTR? 141.140.197.138.in-addr.arpa. (57)
+01:28:17.511930 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.34383 > 67.207.67.3.domain: 56569+ [1au] PTR? 141.140.197.138.in-addr.arpa. (57)
+01:28:17.511985 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.51072 > 67.207.67.3.domain: 62862+ [1au] PTR? 141.140.197.138.in-addr.arpa. (57)
+01:28:17.512177 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.60343: 42394 NXDomain 0/1/1 (124)
+01:28:17.512177 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.34383: 56569 NXDomain 0/1/1 (124)
+01:28:17.512223 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.51072: 62862 NXDomain 0/1/1 (124)
+01:28:17.512340 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.60343 > 67.207.67.3.domain: 42394+ PTR? 141.140.197.138.in-addr.arpa. (46)
+01:28:17.512400 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.34383 > 67.207.67.3.domain: 56569+ PTR? 141.140.197.138.in-addr.arpa. (46)
+01:28:17.512443 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.51072 > 67.207.67.3.domain: 62862+ PTR? 141.140.197.138.in-addr.arpa. (46)
+01:28:17.512510 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.34383: 56569 NXDomain 0/1/0 (113)
+01:28:17.512530 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.60343: 42394 NXDomain 0/1/0 (113)
+01:28:17.512559 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.51072: 62862 NXDomain 0/1/0 (113)

@@ -1,0 +1,18 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -A -i eth0
+
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+02:49:22.073893 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 1353441668:1353441704, ack 3603231161, win 63708, length 36
+E..Lh.@.@..a....c.j.....P.......P....|........./....).'t1....n=..f....A... .
+02:49:22.075072 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 36:144, ack 1, win 63708, length 108
+E...h.@.@.......c.j.....P.......P..........:.......el.......m.....Ry[ .R..w...]V.*.....j..u.Zk...Yik..........0...4...wd.y..5....b.1t....'.......[.y
+02:49:22.075128 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 144:180, ack 1, win 63708, length 36
+E..Lh.@.@.._....c.j.....P.......P....|...,=...s\!.....`..k.`.   "mc.`U.......c
+02:49:22.075180 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 180:288, ack 1, win 63708, length 108
+E...h.@.@.......c.j.....P..8....P.......|L.U*w9.Jd..A.......!%.Y.~..C.....BI.....r(.....T...S..j..i..KD.bk}.........1.N?.......v.....B._G.9......H..
+02:49:22.075234 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 288:324, ack 1, win 63708, length 36
+E..Li.@.@..]....c.j.....P.......P....|..;'+y.D#.C1...q.R.W..d.=....2.Q|vl..a
+
+196 packets captured
+207 packets received by filter
+3 packets dropped by kernel

@@ -1,0 +1,14 @@
+02:52:52.426154 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 47624:50544, ack 1, win 63708, length 2920
+        0x0000:  fe00 0000 0101 aedb 8c03 c50b 0800 4510  ..............E.
+        0x0010:  0b90 87a2 4000 4006 c177 8ac5 8c8d 63f4  ....@.@..w....c.
+        0x0020:  6af7 0016 d7ce 5152 3610 d6c5 1381 5018  j.....QR6.....P.
+        0x0030:  f8dc f1c0 0000 55a5 be54 0c6b db56 5dff  ......U..T.k.V].
+        0x0040:  6c05 ff85 03f4 47c4 4440 403d 435d feeb  l.....G.D@@=C]..
+        0x0050:  fd7a 3c7f 9476 e88e f249 b170 42ee f4a8  .z<..v...I.pB...
+        0x0060:  8977 f013 d112 bb40 2d8b 5d52 059b f82f  .w.....@-.]R.../
+        0x0070:  c72f c61b 388b 81cd 7611 b6d3 74dc fd66  ./..8...v...t..f
+        0x0080:  b197 e662 35af f636 bd03 00c6 d3b5 3c98  ...b5..6......<.
+        0x0090:  0057 bbc1 c673 6728 76c9 944b 3f22 7d75  .W...sg(v..K?"}u
+        0x00a0:  c0ef 9190 1b7b f4e1 104f 7d83 1b8a ed8b  .....{...O}.....
+        0x00b0:  5474 71f2 090a bd14 3ae0 795a 791b 5893  Ttq.....:.yZy.X.
+        0x00c0:  37de b094 5370 01bf 9b89 f9e7 bbfe 26da  7...Sp........&.

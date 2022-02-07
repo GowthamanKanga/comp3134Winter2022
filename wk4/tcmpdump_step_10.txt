@@ -1,0 +1,15 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0 port 22
+
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+03:07:33.478996 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 1371628100:1371628208, ack 3603247609, win 63492, length 108
+03:07:33.479092 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 108:144, ack 1, win 63492, length 36
+03:07:33.479181 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 144:252, ack 1, win 63492, length 108
+03:07:33.479248 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 252:288, ack 1, win 63492, length 36
+03:07:33.482332 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 288:524, ack 1, win 63492, length 236
+03:07:33.482413 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 524:772, ack 1, win 63492, length 248
+03:07:33.482471 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 772:808, ack 1, win 63492, length 36
+03:07:33.482519 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 808:1020, ack 1, win 63492, length 212
+03:07:33.482559 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 1020:1056, ack 1, win 63492, length 36
+03:07:33.564388 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [.], seq 1056:2516, ack 1, win 63492, length 1460
+03:07:33.580966 IP cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1056, win 63088, length 0

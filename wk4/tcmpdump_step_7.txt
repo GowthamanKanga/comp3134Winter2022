@@ -1,0 +1,12 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -r 0001.pcap
+
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+03:03:52.513774 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 1365173068:1365173104, ack 3603240561, win 63708, length 36
+03:03:52.514716 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 36:80, ack 1, win 63708, length 44
+03:03:52.514789 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 80:188, ack 1, win 63708, length 108
+03:03:52.514832 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246: Flags [P.], seq 188:224, ack 1, win 63708, length 36
+03:03:52.533110 IP cpe98524ab3df8d-cm98524ab3df8b.cpe.net.cable.rogers.com.55246 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 224, win 63876, length 0
+03:03:53.072381 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 112.85.42.28.30476: Flags [P.], seq 500994503:500995559, ack 3251928941, win 504, options [nop,nop,TS val 3843868729 ecr 9855024], length 1056
+03:03:53.072407 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 112.85.42.2.32587: Flags [P.], seq 2246498749:2246499805, ack 1588801040, win 504, options [nop,nop,TS val 2664920861 ecr 616294177], length 1056
+03:03:53.968390 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 112.85.42.2.32587: Flags [P.], seq 0:1056, ack 1, win 504, options [nop,nop,TS val 2664921757 ecr 616294177], length 1056
+03:03:54.096400 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 112.85.42.2.56685: Flags [P.], seq 452608823:452609879, ack 31138143, win 504, options [nop,nop,TS val 2664921885 ecr 616280386], length 1056
